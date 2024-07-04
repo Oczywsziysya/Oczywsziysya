@@ -5,7 +5,7 @@ I'm Lucas, an entry-level developer and willing to learn as much as I can. Even 
 ### Languages 🌐
 
 - 🇧🇷 Português (Native)
-- 🇺🇸 English (Advanced)
+- 🇺🇸 English (Upper Intermediate)
 - 🇷🇺 Русский (Advanced)
 - 🇨🇳 中文 (繁體字) (Beginner)
 
